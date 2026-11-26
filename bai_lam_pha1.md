@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Nguyễn Đức Nhật Minh
 - **Lớp:** CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/NhatMinh011007/CNTT2_PromptAI_H02_Nguy-n-c-Nh-t-Minh/blob/main/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
