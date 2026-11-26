@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:**Nguyễn Đức Nhật Minh
 - **Lớp:**CNTT2
-- **Link repository Pha2:** 
+- **Link repository Pha2:** https://github.com/NhatMinh011007/CNTT2_PromptAI_H02_Nguy-n-c-Nh-t-Minh/edit/main/bai_lam_pha2.md
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):** https://claude.ai/share/2aee76a0-55a4-4cfe-aae7-44a44ea84262
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
