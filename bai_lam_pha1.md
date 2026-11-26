@@ -96,6 +96,11 @@ Nhóm nhân viên công ty làm dịch vụ CAOVOI gồm 6 người lớn, 2 tr�
 ```text
 Bạn là nhân viên xử lý tin nhắn khiếu nại có kinh nghiệm 5 năm.Hãy đọc email của khách hàng trong thẻ <email> và chi trả về chỉ một đối tượng JSON gồm đúng 4 trường 
 {"loai_su_co": một trong "tre_hen" | "thiet_bi" | "bac_si" | "khac", "so_khach": số nguyên, "so_lan_hen_bi_tre": số nguyên hoặc null, "tom_tat": "không quá 20 từ"}
+<email>
+EMAIL KHIẾU NẠI CỦA KHÁCH
+
+Gia đình tôi 3 người đã đặt lịch cạo vôi răng. Cả 2 lần hẹn ngày 05/11/2026 và 12/11/2026 chúng tôi đều phải chờ hơn 1 tiếng so với giờ hẹn. Bác sĩ Nam khám rất kỹ, tôi không có gì phàn nàn về bác sĩ. Tôi đề nghị phòng khám giải quyết thỏa đáng.
+
 ```
 
 ### b) Hai điều cần kiểm tra ở JSON đầu ra của Trạm 1
